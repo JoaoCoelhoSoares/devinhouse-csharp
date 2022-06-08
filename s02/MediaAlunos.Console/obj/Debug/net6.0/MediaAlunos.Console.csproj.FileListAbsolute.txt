@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.AssemblyInfo.cs
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\bin\Debug\net6.0\MediaAlunos.Console.exe
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\bin\Debug\net6.0\MediaAlunos.Console.deps.json
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\bin\Debug\net6.0\MediaAlunos.Console.runtimeconfig.json
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\bin\Debug\net6.0\MediaAlunos.Console.dll
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\bin\Debug\net6.0\MediaAlunos.Console.pdb
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.dll
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\refint\MediaAlunos.Console.dll
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.pdb
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\MediaAlunos.Console.genruntimeconfig.cache
+C:\Users\Eric\Desktop\dot-net\s02\MediaAlunos.Console\obj\Debug\net6.0\ref\MediaAlunos.Console.dll
