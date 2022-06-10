@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AplicacaoBancaria.Console/1.0.0": {
+        "runtime": {
+          "AplicacaoBancaria.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicacaoBancaria.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

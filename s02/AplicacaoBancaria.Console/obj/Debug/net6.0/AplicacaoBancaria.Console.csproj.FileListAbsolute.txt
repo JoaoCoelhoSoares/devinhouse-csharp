@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.AssemblyInfo.cs
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\bin\Debug\net6.0\AplicacaoBancaria.Console.exe
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\bin\Debug\net6.0\AplicacaoBancaria.Console.deps.json
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\bin\Debug\net6.0\AplicacaoBancaria.Console.runtimeconfig.json
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\bin\Debug\net6.0\AplicacaoBancaria.Console.dll
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\bin\Debug\net6.0\AplicacaoBancaria.Console.pdb
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.dll
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\refint\AplicacaoBancaria.Console.dll
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.pdb
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\AplicacaoBancaria.Console.genruntimeconfig.cache
+C:\Users\Eric\Desktop\dot-net\s02\AplicacaoBancaria.Console\obj\Debug\net6.0\ref\AplicacaoBancaria.Console.dll
