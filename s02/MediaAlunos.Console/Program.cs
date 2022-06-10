@@ -5,7 +5,6 @@ int notaMaiorSete = 0;
 int notaMenorSete = 0;
 int notaMaiorZero = 0;
 int notaZero = 0;
-float notaMedia = 0;
 
 Console.Write("Informe a nota do primeiro aluno: ");
 notas[0] = float.Parse(Console.ReadLine());
@@ -28,8 +27,6 @@ notas[5] = float.Parse(Console.ReadLine());
 
 foreach (var nota in notas)
 {
-
-    notaMedia = notaMedia + nota;
 
     if (nota > 7)
     {
@@ -55,9 +52,7 @@ foreach (var nota in notas)
 
 }
 
-notaMedia = notaMedia / notas.Length;
-
-Console.WriteLine($"Nota média da turma: {notaMedia}");
+Console.WriteLine($"Nota média da turma: {notas.Sum()}");
 Console.WriteLine($"Alunos com nota maior que 7: {notaMaiorSete}");
 Console.WriteLine($"Alunos com nota menor que 7: {notaMenorSete}");
 Console.WriteLine($"Alunos com nota maior que 0: {notaMaiorZero}");
