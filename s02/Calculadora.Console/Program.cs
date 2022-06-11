@@ -2,71 +2,76 @@
 {
     public static void Main(string[] args)
     {
-        OpcoesMenu opcaoSelecionada = OpcoesMenu.Adicao;
-        while (opcaoSelecionada != OpcoesMenu.Sair)
-        {
-            Console.WriteLine("\n Selecione o tipo de operação:");
-            Console.WriteLine("1 - Adição");
-            Console.WriteLine("2 - Subtração");
-            Console.WriteLine("3 - Multiplicação");
-            Console.WriteLine("4 - Divisão");
-            Console.WriteLine("5 - Sair");
-
-            string resposta = Console.ReadLine().ToUpper();
-
-
-            if (resposta == "5")
-            {
-                Console.WriteLine("\nObrigado por acessar a calculadora. Tchau!");
-                break;
-            }
-            else
-            {
-                Console.Write("Informe o primeiro número: ");
-                int numero1 = int.Parse(Console.ReadLine());
-
-
-                Console.Write("Informe o segundo número: ");
-                int numero2 = int.Parse(Console.ReadLine());
-
-                Console.WriteLine($"\nO resultado é: {Executar(resposta, numero1, numero2)}");
-
-            }
-
-        }
+        Menu();
     }
 
-    private static int Executar(string resposta, int numero1, int numero2)
+    private static void Menu()
     {
-        switch (resposta)
+
+        Console.WriteLine("\n Selecione o tipo de operação:");
+        Console.WriteLine("1 - Adição");
+        Console.WriteLine("2 - Subtração");
+        Console.WriteLine("3 - Multiplicação");
+        Console.WriteLine("4 - Divisão");
+        Console.WriteLine("5 - Sair");
+
+        int opcao = int.Parse(Console.ReadLine());
+        var opcaoSelecionada = (OpcoesMenu)opcao;
+
+        if (opcaoSelecionada == OpcoesMenu.Sair)
         {
-            case "1":
-                return numero1 + numero2;
+            Console.WriteLine("\nObrigado por acessar a calculadora. Tchau!");
+        }
+        else
+        {
+            Console.Write("Informe o primeiro número: ");
+            int numero1 = int.Parse(Console.ReadLine());
 
-            case "2":
-                return numero1 - numero2;
+            Console.Write("Informe o segundo número: ");
+            int numero2 = int.Parse(Console.ReadLine());
 
-            case "3":
-                return numero1 * numero2;
+            Executar(opcaoSelecionada, numero1, numero2);
+            Menu();
 
-            case "4":
-                return numero1 / numero2;
+        }
+
+
+
+
+    }
+
+    private static void Executar(OpcoesMenu opcao, int num1, int num2)
+    {
+        switch (opcao)
+        {
+            case OpcoesMenu.Adicao:
+                Console.WriteLine($"\nO resultado é: {num1 + num2}");
+                break;
+            case OpcoesMenu.Subtracao:
+                Console.WriteLine($"\nO resultado é: {num1 - num2}");
+                break;
+
+            case OpcoesMenu.Multiplicacao:
+                Console.WriteLine($"\nO resultado é: {num1 * num2}");
+                break;
+
+            case OpcoesMenu.Divisao:
+                Console.WriteLine($"\nO resultado é: {num1 / num2}");
+                break;
 
             default:
-                return 0;
+                Console.WriteLine("Não foi possível executar");
+                break;
+
         }
-
-
     }
-
-
 
     public enum OpcoesMenu
     {
-        Adicao,  // 0
-        Subtracao,  // 1
-        Multiplicacao,  // 2
-        Divisao,    //3
-        Sair    // 4
+        Adicao = 1,
+        Subtracao,
+        Multiplicacao,
+        Divisao,
+        Sair
     }
 }

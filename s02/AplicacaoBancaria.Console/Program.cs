@@ -22,9 +22,10 @@
         Console.WriteLine("5 - Sair");
 
         Console.Write("\n Selecione o tipo de operação: ");
-        string opcaoSelecionada = Console.ReadLine();
+        int opcao = int.Parse(Console.ReadLine());
+        var opcaoSelecionada = (OpcoesMenu)opcao;
 
-        if (opcaoSelecionada == "5")
+        if (opcaoSelecionada == OpcoesMenu.Sair)
         {
             Console.WriteLine("\nObrigado por ser cliente do DevInBank.");
             return;
@@ -36,23 +37,23 @@
         }
     }
 
-    private static void Executar(string resposta)
+    private static void Executar(OpcoesMenu resposta)
     {
         switch (resposta)
         {
-            case "1":
+            case OpcoesMenu.Saldo:
                 Console.WriteLine($"\nO saldo atual é: {saldo}");
                 break;
 
-            case "2":
+            case OpcoesMenu.Deposito:
                 Deposito();
                 break;
 
-            case "3":
+            case OpcoesMenu.Saque:
                 Saque();
                 break;
 
-            case "4":
+            case OpcoesMenu.Historico:
                 Histórico();
                 break;
 
