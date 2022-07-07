@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\bin\Debug\net6.0\CaixaBanco.exe
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\bin\Debug\net6.0\CaixaBanco.deps.json
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\bin\Debug\net6.0\CaixaBanco.runtimeconfig.json
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\bin\Debug\net6.0\CaixaBanco.dll
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\bin\Debug\net6.0\CaixaBanco.pdb
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.AssemblyInfo.cs
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.dll
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\refint\CaixaBanco.dll
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.pdb
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\CaixaBanco.genruntimeconfig.cache
+C:\Users\Eric\Desktop\dot-net\s06\CaixaBanco\CaixaBanco\obj\Debug\net6.0\ref\CaixaBanco.dll

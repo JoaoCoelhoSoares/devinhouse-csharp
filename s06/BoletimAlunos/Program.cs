@@ -4,9 +4,9 @@ using BoletimNamespace.Exceptions;
 var alunos = new[]
 {
    new Aluno(1, "Rodrigo Raiche"),
-   new Aluno(2, "José Alfredo"),
-   new Aluno(3, "Janaina Alves"),
-   new Aluno(4, "Liliane Oliveira")
+   new Aluno(2, "João Coelho"),
+   new Aluno(3, "Fulano da Silva"),
+   new Aluno(4, "Fulano de Oliveira")
  };
 
 var disciplinas = new[]
