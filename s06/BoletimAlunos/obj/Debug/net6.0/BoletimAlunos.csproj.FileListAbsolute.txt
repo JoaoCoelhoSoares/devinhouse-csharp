@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.AssemblyInfo.cs
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\bin\Debug\net6.0\BoletimAlunos.exe
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\bin\Debug\net6.0\BoletimAlunos.deps.json
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\bin\Debug\net6.0\BoletimAlunos.runtimeconfig.json
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\bin\Debug\net6.0\BoletimAlunos.dll
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\bin\Debug\net6.0\BoletimAlunos.pdb
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.dll
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\refint\BoletimAlunos.dll
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.pdb
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\BoletimAlunos.genruntimeconfig.cache
+C:\Users\Eric\Desktop\dot-net\s06\BoletimAlunos\obj\Debug\net6.0\ref\BoletimAlunos.dll

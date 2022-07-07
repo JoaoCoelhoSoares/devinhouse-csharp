@@ -12,8 +12,7 @@ namespace Calculadora.Exceptions
         }
 
         public ValorNuloException(Exception innerException) : base(
-         string.Format(Mensagem), innerException
-     )
+         string.Format(Mensagem), innerException)
         {
 
         }
