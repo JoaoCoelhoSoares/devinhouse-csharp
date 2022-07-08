@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1/vWXNx5qnuEWN6kziEy+29gZ4B+VqBnlafKZ/F96RALQFRsvzkPFvUUcPF86ptqUYEH2B7HRETl0V8PkCm6g==",
+  "dgSpecHash": "r6j8/3g4euSdWLzX+JNI84N5pNeZrpgvZFVIxo549v7TwU8i/wJj4DiJ1azYnMUSREkcE5salUt00SM3HKn9HQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\6\\Ex6.Tests\\Ex6.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\Exercicio7\\Ex7.Test\\Ex7.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

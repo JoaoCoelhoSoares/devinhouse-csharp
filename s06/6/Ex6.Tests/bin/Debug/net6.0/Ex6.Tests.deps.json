@@ -10,7 +10,8 @@
         "dependencies": {
           "Ex6": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.2.0",
-          "xunit": "2.4.1"
+          "xunit": "2.4.1",
+          "xunit.runner.visualstudio": "2.4.5"
         },
         "runtime": {
           "Ex6.Tests.dll": {}
@@ -1086,6 +1087,7 @@
           }
         }
       },
+      "xunit.runner.visualstudio/2.4.5": {},
       "Ex6/1.0.0": {
         "runtime": {
           "Ex6.dll": {}
@@ -1728,6 +1730,13 @@
       "sha512": "sha512-7e/1jqBpcb7frLkB6XDrHCGXAbKN4Rtdb88epYxCSRQuZDRW8UtTfdTEVpdTl8s4T56e07hOBVd4G0OdCxIY2A==",
       "path": "xunit.extensibility.execution/2.4.1",
       "hashPath": "xunit.extensibility.execution.2.4.1.nupkg.sha512"
+    },
+    "xunit.runner.visualstudio/2.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OwHamvBdUKgqsXfBzWiCW/O98BTx81UKzx2bieIOQI7CZFE5NEQZGi8PBQGIKawDW96xeRffiNf20SjfC0x9hw==",
+      "path": "xunit.runner.visualstudio/2.4.5",
+      "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
     "Ex6/1.0.0": {
       "type": "project",

@@ -1671,14 +1671,14 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Ex6/1.0.0": {
+      "Ex7/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Ex6.dll": {}
+          "bin/placeholder/Ex7.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ex6.dll": {}
+          "bin/placeholder/Ex7.dll": {}
         }
       }
     }
@@ -5920,15 +5920,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Ex6/1.0.0": {
+    "Ex7/1.0.0": {
       "type": "project",
-      "path": "../Ex6/Ex6.csproj",
-      "msbuildProject": "../Ex6/Ex6.csproj"
+      "path": "../Ex7/Ex7.csproj",
+      "msbuildProject": "../Ex7/Ex7.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Ex6 >= 1.0.0",
+      "Ex7 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.2.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5940,11 +5940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\6\\Ex6.Tests\\Ex6.Tests.csproj",
-      "projectName": "Ex6.Tests",
-      "projectPath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\6\\Ex6.Tests\\Ex6.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\Exercicio7\\Ex7.Test\\Ex7.Test.csproj",
+      "projectName": "Ex7.Test",
+      "projectPath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\Exercicio7\\Ex7.Test\\Ex7.Test.csproj",
       "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\6\\Ex6.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\Exercicio7\\Ex7.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5959,8 +5959,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\6\\Ex6\\Ex6.csproj": {
-              "projectPath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\6\\Ex6\\Ex6.csproj"
+            "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\Exercicio7\\Ex7\\Ex7.csproj": {
+              "projectPath": "C:\\Users\\Eric\\Desktop\\dot-net\\s06\\Exercicio7\\Ex7\\Ex7.csproj"
             }
           }
         }
